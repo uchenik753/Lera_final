@@ -35,7 +35,7 @@ p{
     box-sizing: border-box;
 }
 
-body {
+footer {
   background-color: hsl(207 100% 5%);
   background-image: linear-gradient(hsl(207 100% 15%), hsl(207 100% 5%));
   min-height: 100vh;
